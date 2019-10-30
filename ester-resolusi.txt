@@ -1,4 +1,4 @@
 ester resolusi 
 -konsisten belajar Bahasa pemrograman
 -belajar oop 
--belajar c#
+-belajar c++
